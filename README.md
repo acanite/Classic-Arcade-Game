@@ -2,8 +2,14 @@
 **Project created as part of the Udacity Introduction to Programming Nanodegree**
 
 The entire project is done with HTML, CSS, and JavaScript.
+
+## Installing from Source
+- Clone the following repo
+- Or download the Zip file
+- Load index.html in browser.
+- Play the game
+
 ## Instructions
- 
 -   After you have openend *index.html* into your browser, the game loads on start.
 -   To play the game, you use the *up, down, left, right* keys on your keybard to move the player
 -   **Goal** - You need to cross the road to the water and avoid touching the roach.
